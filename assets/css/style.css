@@ -94,7 +94,7 @@ p:last-child {
 }
 
 a, button {
-  color: inherit;
+  color: #b154f0;
   line-height: inherit;
   text-decoration: none;
   cursor: pointer;
@@ -107,7 +107,7 @@ a, button, img, input, span {
 }
 
 a:hover {
-  color: #b154f0;
+  color: #7cbdc3;
 }
 
 .btn:focus {
@@ -749,7 +749,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .offcanvas_menu_wrapper {
-  width: 290px;
+  width: 250px;
   position: fixed;
   background: #fff;
   z-index: 999;
@@ -1390,11 +1390,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .copyright_right p a {
-  color: #ffffff;
+  color: #b154f0;
   font-weight: 600;
 }
 .copyright_right p a:hover {
-  color: #b154f0;
+  color: #7cbdc3;
 }
 .copyright_right p i {
   color: #b154f0;
